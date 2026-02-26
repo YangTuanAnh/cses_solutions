@@ -6,4 +6,4 @@ Solved so far:
 | Problem Type | Number Solved |
 | --- | --- |
 | Introductory Problems | 5/24 |
-| Dynamic Programming | 5/23 |
+| Dynamic Programming | 10/23 |
